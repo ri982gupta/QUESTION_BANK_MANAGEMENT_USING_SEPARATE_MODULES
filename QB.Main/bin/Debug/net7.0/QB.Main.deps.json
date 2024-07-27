@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "QB.Main/1.0.0": {
+        "dependencies": {
+          "QB.ConsoleUI": "1.0.0"
+        },
+        "runtime": {
+          "QB.Main.dll": {}
+        }
+      },
+      "QB.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "QB.Domain": "1.0.0",
+          "QB.Model": "1.0.0"
+        },
+        "runtime": {
+          "QB.ConsoleUI.dll": {}
+        }
+      },
+      "QB.Domain/1.0.0": {
+        "dependencies": {
+          "QB.Model": "1.0.0"
+        },
+        "runtime": {
+          "QB.Domain.dll": {}
+        }
+      },
+      "QB.Model/1.0.0": {
+        "runtime": {
+          "QB.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QB.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QB.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QB.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QB.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

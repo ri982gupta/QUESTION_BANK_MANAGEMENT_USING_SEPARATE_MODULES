@@ -1,0 +1,12 @@
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\bin\Debug\net7.0\QB.Model.deps.json
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\bin\Debug\net7.0\QB.Model.dll
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\bin\Debug\net7.0\QB.Model.pdb
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\QB.Model.csproj.AssemblyReference.cache
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\QB.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\QB.Model.AssemblyInfoInputs.cache
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\QB.Model.AssemblyInfo.cs
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\QB.Model.csproj.CoreCompileInputs.cache
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\QB.Model.dll
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\refint\QB.Model.dll
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\QB.Model.pdb
+C:\Users\RiGupta\Desktop\QUESTION__BANK\QB.Model\obj\Debug\net7.0\ref\QB.Model.dll
